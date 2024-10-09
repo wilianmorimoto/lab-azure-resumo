@@ -1,4 +1,4 @@
-# Laboratório Microsoft Azure - Resumo
+# Laboratório Introdução a Computação em Nuvem - Resumo
 
 ## Computação em Nuvem
 É o fornecimento de serviços de computação pela Internet, com elevada rapidez, flexibilidade e escalabilidade. Os provedores desses serviços, que possuem preços individuais, utilizam um modelo baseado em consumo, ou seja, os usuários pagam somente pelo o que utilizam, permitindo melhor previsão de custos.
